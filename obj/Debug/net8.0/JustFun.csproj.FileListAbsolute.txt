@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\bin\Debug\net8.0\JustFun.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\bin\Debug\net8.0\JustFun.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\bin\Debug\net8.0\JustFun.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\bin\Debug\net8.0\JustFun.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\bin\Debug\net8.0\JustFun.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\JustFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\JustFun.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\JustFun.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\JustFun.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\JustFun.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\refint\JustFun.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\JustFun.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\JustFun.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\JustFun\obj\Debug\net8.0\ref\JustFun.dll
